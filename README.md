@@ -11,3 +11,4 @@ Fast Catch: Use Fast-Catch to bypass the egg-pickup cooldown,
 but check first if you actually managed to pick up the egg.
 
 ## Click [here](https://github.com/infinitecheatsroblox/stealanegg-infinitecheat/blob/main/THE%20SCRIPT)
+to copy the script
