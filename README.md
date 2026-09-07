@@ -9,3 +9,5 @@ but the egg will be right in front of you; just wait for the time to pass and pi
 
 Fast Catch: Use Fast-Catch to bypass the egg-pickup cooldown, 
 but check first if you actually managed to pick up the egg.
+
+## Click [here]()
