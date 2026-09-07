@@ -1,4 +1,5 @@
 Steal an Egg Script by Infinite Cheats
+
 Currently, the most up-to-date version of the script is v1.05.
 
 ## Functions
