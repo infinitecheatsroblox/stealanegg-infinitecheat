@@ -2,18 +2,18 @@
 
 Steal an Egg Script by Infinite Cheats
 
-Currently, the most up-to-date version of the script is v1.05.
+A versão mais atualizada do script é 1.0.5v
 
-## Functions
+## Funções
 
-Teleport: Save your position before the finish line. 
-When you go to grab an egg and use the teleport, you will be frozen for 5.5 seconds due to the anti-cheat, 
-but the egg will be right in front of you; just wait for the time to pass and pick it up.  
+Teleport: Salve sua posição no lobby um pouco antes da linha das fases
+Pegue um ovo e use o botão de teleporte, você será transportado e congelado por 5.5 segundos (congelamento para burlar o anticheat)
+o ovo ficara na floresta na sua frente, combine com o Fast Catch para melhor desempenho
 
-Fast Catch: Use Fast-Catch to bypass the egg-pickup cooldown, 
-but check first if you actually managed to pick up the egg.
+Fast Catch: Use o fast-catch para zerar o cooldown de obter um ovo
+mas antes de sair correndo, cheque se você conseguiu pegar ele
 
 ## Script
 
-Click [here](https://github.com/infinitecheatsroblox/stealanegg-infinitecheat/blob/main/THE%20SCRIPT)
-to copy the script
+Click [aqui](https://github.com/infinitecheatsroblox/stealanegg-infinitecheat/blob/main/THE%20SCRIPT)
+para conseguir o script
