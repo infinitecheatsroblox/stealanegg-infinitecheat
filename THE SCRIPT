@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitecheatsroblox/stealanegg-infinitecheat/refs/heads/main/SAG%201.05%20P1.lua")) ()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitecheatsroblox/stealanegg-infinitecheat/refs/heads/main/SAG%201.05%20P2.lua")) ()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitecheatsroblox/stealanegg-infinitecheat/refs/heads/main/loadstring/SAG%201.05%20P1.lua")) ()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitecheatsroblox/stealanegg-infinitecheat/refs/heads/main/loadstring/SAG%201.05%20P2.lua")) ()
